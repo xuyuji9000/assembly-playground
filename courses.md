@@ -4,4 +4,4 @@ This file documents courses related to assembly language, instruction set and co
 
     > This lecture is from MIT
 
-    > Can also find on Youtube
+    > Can also find on [Youtube](https://www.youtube.com/watch?v=L1ung0wil9Y)
