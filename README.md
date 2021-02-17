@@ -1,6 +1,3 @@
-# assembly-playground
+This repo is used to learn assembly language, instruction set and potentially compiler.
 
-
-Compile: `nasm -f macho64 hello.asm`
-
-Link: `ld -macosx_version_min 10.7.0 -lSystem -o hello hello.o`
+- [hello-world](./hello-world/README.md) assembly example
