@@ -1,4 +1,4 @@
-This file documents courses related to assembly language, instruction set and compiler.
+This file documents materials for learning assembly language, instruction set and compiler.
 
 - [Lecture 4: Assembly Language & Computer Architecture](https://www.youtube.com/watch?v=L1ung0wil9Y)
 
@@ -9,3 +9,5 @@ This file documents courses related to assembly language, instruction set and co
 - [A Tiny Guide to Programming in 32-bit x86 Assembly Language](https://www.cs.dartmouth.edu/~sergey/cs258/tiny-guide-to-x86-assembly.pdf)
 
     > This document gives an easier way in on learning x86 32bit assembly language
+
+- [Reverse Engineering for Beginners](https://doc.lagout.org/security/2014_RE_for_beginners.pdf)
