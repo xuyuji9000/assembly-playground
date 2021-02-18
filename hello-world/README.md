@@ -1,9 +1,9 @@
 This folder contains an assembly *hello world* example.
 
 
-Compile: `nasm -f macho64 hello.asm`
+Compile: `nasm -f macho64 hello-world.asm`
 
-Link: `ld -macosx_version_min 10.7.0 -lSystem -o hello hello.o`
+Link: `ld -macosx_version_min 10.7.0 -lSystem -o hello-world hello-world.o`
 
 
 # Reference 
