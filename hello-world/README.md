@@ -1,9 +1,22 @@
 This folder contains an assembly *hello world* example.
 
+Environment: *amd64/centos:7*
 
-Compile: `nasm -f macho64 hello-world.asm`
+``` bash
+docker run -it amd64/centos:7
+```
 
-Link: `ld -macosx_version_min 10.7.0 -lSystem -o hello-world hello-world.o`
+Compile: nasm
+
+``` bash
+nasm -f elf64 hello-world.asm
+```
+
+Linking
+
+``` bash
+ld -o hello-world hello-world.o
+```
 
 
 # Reference 
