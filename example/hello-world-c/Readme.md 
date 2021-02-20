@@ -1,0 +1,4 @@
+This example created a hello world C program and analysis the assembly code.
+
+
+- Compile: `gcc -o main ./main.c`
