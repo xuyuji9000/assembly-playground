@@ -2,4 +2,4 @@ This repo is used to learn assembly language, instruction set and potentially co
 
 - [example](./example/README.md)
 
-- [materials](./materials.md)
+- [learning-materials](./learning-materials.md)
