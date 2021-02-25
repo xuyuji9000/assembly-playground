@@ -18,6 +18,12 @@ Linking
 ld -o hello-world hello-world.o
 ```
 
+Execute
+
+``` bash
+./hello-world
+```
+
 
 # Reference 
 
