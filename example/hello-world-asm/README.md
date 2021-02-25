@@ -38,3 +38,8 @@ Execute
 3. [NASM Tutorial](https://cs.lmu.edu/~ray/notes/nasmtutorial/)
 
     > A detailed "hello world" program explanation in text
+
+
+4. [X86 Assembly - Tutorial 1](https://pixelclear.github.io/technical/post/2021/01/02/x86-Assembly-tutorial-part1.html)
+
+    > This helps explain specific x86 assembly syntax like `global _start` `section .text` `section .data`
