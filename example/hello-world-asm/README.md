@@ -43,3 +43,8 @@ Execute
 4. [X86 Assembly - Tutorial 1](https://pixelclear.github.io/technical/post/2021/01/02/x86-Assembly-tutorial-part1.html)
 
     > This helps explain specific x86 assembly syntax like `global _start` `section .text` `section .data`
+
+
+5. [Invoking a System call via Assembly](https://medium.com/@jain.sm/invoking-a-system-call-via-assembly-84c9f8832105)
+
+   > This helps explain what assembly code, like `mov rax, 1`, mean
