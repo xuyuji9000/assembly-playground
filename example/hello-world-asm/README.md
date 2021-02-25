@@ -9,6 +9,7 @@ docker run -it amd64/centos:7
 Compile: nasm
 
 ``` bash
+nasm -hf # get help information about format
 nasm -f elf64 hello-world.asm
 ```
 
