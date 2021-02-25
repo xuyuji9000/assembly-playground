@@ -11,3 +11,5 @@ This file documents materials for learning assembly language, instruction set an
     > This document gives an easier way in on learning x86 32bit assembly language
 
 - [Reverse Engineering for Beginners](https://doc.lagout.org/security/2014_RE_for_beginners.pdf)
+
+- [Learning about ELF format](https://github.com/xuyuji9000/linux-playground/blob/master/ELF_format/Readme.md)
