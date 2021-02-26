@@ -1,5 +1,7 @@
 This example created a hello world C program and analysis the assembly code.
 
+- To understand the process from C to low level language, needs better understanding on compiler.
+
 
 # Compile C to object code
 
