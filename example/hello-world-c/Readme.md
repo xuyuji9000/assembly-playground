@@ -12,3 +12,5 @@ This example created a hello world C program and analysis the assembly code.
 # Reference
 
 1. [CppCon 2018: Matt Godbolt “The Bits Between the Bits: How We Get to main()”](https://www.youtube.com/watch?v=dOfucXtyEsU)
+
+    > "The Bits Between the Bits" [annotation](./The-Bits-Between-the-Bits-annotation.md)
