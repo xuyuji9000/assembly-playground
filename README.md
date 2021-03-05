@@ -17,4 +17,11 @@ This repo is used to learn assembly language, instruction set and potentially co
 
 3. [Reverse Engineering for Beginners](https://doc.lagout.org/security/2014_RE_for_beginners.pdf)
 
+    > A book about reverse engineering
+
 4. [Learning about ELF format](https://github.com/xuyuji9000/linux-playground/blob/master/ELF_format/Readme.md)
+
+5. [x86 Assembly Language Programming](https://cs.lmu.edu/~ray/notes/x86assembly/)
+
+    > Another tutorial in text
+
