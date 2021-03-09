@@ -2,6 +2,8 @@ This repo is used to learn assembly language, instruction set and potentially co
 
 - [example](./example/README.md)
 
+- [gcc](./gcc.md)
+
 
 # Reference
 
