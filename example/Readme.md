@@ -2,6 +2,6 @@
 
     > This folder contains an assembly language "hello world" program
 
-- [hello-world-c](./hello-world-c/Readme.md)
+- [hello-world-clang](./hello-world-clang/Readme.md)
 
     >This folder contains a c language "hello world" program
