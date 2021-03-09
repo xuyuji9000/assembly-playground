@@ -6,3 +6,7 @@ This file documents the learning about gcc compiler.
 
     > General introduction of the usage of gcc
 
+2. [Learning to read GCC assembler output](https://stackoverflow.com/questions/2611359/learning-to-read-gcc-assembler-output)
+
+    > This stackoverflow Q&A give some idea how to prepare a more readable assembly file.
+
