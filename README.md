@@ -4,6 +4,8 @@ This repo is used to learn assembly language, instruction set and potentially co
 
 - [gcc](./gcc.md)
 
+- [video-tutorials](./video-tutorials.md)
+
 
 # Reference
 
