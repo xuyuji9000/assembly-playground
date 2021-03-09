@@ -13,3 +13,5 @@
 - [return-function-gcc](./return-function-gcc/Readme.md)
 
     > This folder contains a C return function program compiled with gcc
+
+- [call-another-function-gcc](./call-another-function-gcc/Readme.md)
