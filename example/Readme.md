@@ -1,4 +1,4 @@
-- [hello-world-asm](./hello-world-asm/Readme.md)
+- [hello-world-nasm](./hello-world-nasm/Readme.md)
 
     > This folder contains an assembly language "hello world" program
 
