@@ -9,3 +9,7 @@
 - [hello-world-gcc](./hello-world-gcc/Readme.md)
 
     > This folder contains a C hello world program compiled with gcc.
+
+- [return-function-gcc](./return-function-gcc/Readme.md)
+
+    > This folder contains a C return function program compiled with gcc
