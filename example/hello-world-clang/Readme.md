@@ -4,15 +4,16 @@ This example created a hello world C program and analysis the assembly code.
 
 # Environment: 
 
-*amd64/centos:8*
+OS: *amd64/centos:8*
 
 ``` bash
 docker run -it amd64/centos:8
 ```
 
+compiler: clang
 
 
-# Compile C to object code
+# Compile
 
 ``` bash
 # generate object file
@@ -21,9 +22,6 @@ clang -o main ./main.c
 # generate assembly file
 clang -S ./main.c
 ```
-
-
-# Compile C to assembly code
 
 
 # Reference
