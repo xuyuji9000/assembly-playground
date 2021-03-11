@@ -2,6 +2,14 @@
 	.intel_syntax noprefix
 	.text
 	.globl	main
+	; .globl tells the assembler to add the label that follows it to
+	; the list of labels "exported" by the generated object file.
+	; This basically means "this is a symbol that should be visible
+	; to the linker". For example a "non static" function in "C" can
+	; be called by any C file that declares a compatible function 
+	; prototype. This is why you can #include stdio.h and then call
+	; printf. 
+
 	.type	main, @function
 main:
 .LFB0:
