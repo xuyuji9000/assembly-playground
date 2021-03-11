@@ -18,7 +18,7 @@ compiler: gcc
 gcc -o main ./main.c
 
 # generate assembly file
-gcc -S ./main.c -masm=intel
+gcc -O0 -S ./main.c -masm=intel
 
 # assemble from assembly file
 gcc -o main ./main.s
