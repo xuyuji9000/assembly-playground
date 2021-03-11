@@ -1,9 +1,11 @@
-void func(int x) {
+int func(int x) {
     int a = 1;
     int b = x;
     a = a + b;
+    return a;
 }
 
 int main() {
-    func(10);
+    int c = func(10);
+    return 0;
 }
